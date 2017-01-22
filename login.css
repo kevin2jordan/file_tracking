@@ -1,0 +1,23 @@
+
+.RegBox{
+	margin:10px;
+	padding-left:40%;
+	}
+
+ body {
+	background-color: lightblue;
+	} 
+
+#f1{
+	padding:10px;
+	margin:10px;
+	}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   	
+	
+	color: black;  
+}
+
+#f2   {
+	}
